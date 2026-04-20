@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=dvddvd300&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvddvd300&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvddvd300&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![clawdboard](https://clawdboard.ai/api/badge/dvddvd300)](https://clawdboard.ai/user/dvddvd300)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dvddvd300&theme=radical&no-frame=false&no-bg=true&margin-w=4)
