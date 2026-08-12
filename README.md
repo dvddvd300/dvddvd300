@@ -17,6 +17,6 @@ Backend, cloud, and DevOps engineer focused on reliable production systems, auto
 
 ## GitHub Activity
 
-![GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=dvddvd300&theme=dark&hide_border=true)
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=dvddvd300&theme=dark&hide_border=true)
 
 [![Clawdboard profile](https://clawdboard.ai/api/badge/dvddvd300)](https://clawdboard.ai/user/dvddvd300)
